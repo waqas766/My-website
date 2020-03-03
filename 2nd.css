@@ -1,0 +1,14 @@
+body {
+  background-color: slategray;
+}
+.box {
+  background-image: url(https://www.bargello.com/images/products/kurta/K956-l-2016.jpg);
+  width: 450px;
+  height: 450px;
+}
+h1 {
+  font-size: 70px;
+}
+p {
+  font-size: 30px;
+}
